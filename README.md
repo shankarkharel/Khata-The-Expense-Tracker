@@ -1,7 +1,6 @@
 # money_tracker
 
 A tracker for your Expenses
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/59717384/136815675-df249ffb-5f5a-4472-aec2-e2c23de90769.gif)
 
 ## Getting Started
 
@@ -15,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/59717384/136816215-58b8d138-24cd-4636-9158-f09553df3cac.gif)
