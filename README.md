@@ -1,8 +1,8 @@
 # money_tracker
 
 A tracker for your Expenses
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/59717384/136815675-df249ffb-5f5a-4472-aec2-e2c23de90769.gif)
 
-https://gifs.com/gif/expense-tracker-992NzB
 ## Getting Started
 
 This project is a starting point for a Flutter application.
