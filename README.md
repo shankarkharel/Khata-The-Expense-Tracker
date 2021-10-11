@@ -1,7 +1,8 @@
 # money_tracker
 
-A new Flutter project.
+A tracker for your Expenses
 
+<iframe src='//gifs.com/embed/expense-tracker-992NzB' frameborder='0' scrolling='no' width='720px' height='1440px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
